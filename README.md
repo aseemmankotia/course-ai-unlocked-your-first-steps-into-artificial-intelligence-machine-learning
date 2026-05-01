@@ -10,7 +10,7 @@
 | Flashcards | All 5 | 15 cards per chapter, Anki-compatible |
 | Code Examples | All 5 | 3-5 runnable examples per chapter |
 | Cheat Sheets | All 5 | Quick reference guide per chapter |
-
+| Practice Tests | 2 full exams | 55 questions each, 90 minutes, with answer keys |
 
 ## 🎯 How to Use
 
